@@ -1,0 +1,13 @@
+condition_name,t_onset,t_offset,trigger_id
+target_only,0,30,x
+2_speaker,30,90,x
+SSN,90,150,x
+target_only,150,210,x
+SSN,210,270,x
+2_speaker,270,330,x
+1_speaker,330,390,x
+SSN,390,450,x
+2_speaker,450,510,x
+1_speaker,510,570,x
+target_only,570,630,x
+story,0,630,
