@@ -1,4 +1,4 @@
-# MEG-pupil-task
+# Speech Perception in Noise task (SPiN)
 
 This is the home for a continous languaging processing study. You'll find here and explanation of the study, a preprint to some previous behavioral findings, along with work-in-progress code for data acquisition and analyses. 
 
